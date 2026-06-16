@@ -4,7 +4,7 @@
 **Instituição**: Faculdade Estácio de Sá
 **Curso**: Superior de Tecnologia em Desenvolvimento Full Stack 
 **Módulo**: Desenvolvimento Back-End Corp. Java 
-***Aluno**: João Pedro Ramos Ferreira Oliveira
+***Aluno**: Daniel de Mattos de Almeida
 
 ---
 
